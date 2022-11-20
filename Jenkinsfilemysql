@@ -1,4 +1,4 @@
-pipeline{
+Pipeline{
 environment {
     DB_CREDS=credentials('mysqlCredentials')
   }
